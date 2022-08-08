@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "685812427723",
+    "project_id": "sun-shine-2569f",
+    "storage_bucket": "sun-shine-2569f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685812427723:android:4e565e83f96293f806644e",
+        "android_client_info": {
+          "package_name": "com.example.sunshine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685812427723-lckimi53rt8b6voognpstdksm8lh632l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sunshine",
+            "certificate_hash": "71d131b477680db97c9deac88b5bace40e83f9e6"
+          }
+        },
+        {
+          "client_id": "685812427723-v9higakertantln7cme8506a61g2vcuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAuv7H7jso8m5FRPQnVa6QUOM8cLxcdp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685812427723-v9higakertantln7cme8506a61g2vcuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
