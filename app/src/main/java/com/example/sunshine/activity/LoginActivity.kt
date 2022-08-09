@@ -1,13 +1,12 @@
-package com.example.sunshine
+package com.example.sunshine.activity
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.sunshine.R
 
-class MainActivity : AppCompatActivity() {
+class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-
-
+        setContentView(R.layout.activity_login)
     }
 }
