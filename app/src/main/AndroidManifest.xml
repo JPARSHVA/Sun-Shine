@@ -10,8 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SunShine">
         <activity
+            android:name=".activity.RegisterActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/theme.sun"
+            android:exported="true" />
+        <activity
             android:name=".activity.LoginActivity"
-            android:exported="false" />
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/theme.sun" />
         <activity
             android:name=".activity.SplashActivity"
             android:exported="true"
@@ -25,7 +32,8 @@
         </activity>
         <activity
             android:name=".activity.MainActivity"
-            android:exported="true"></activity>
+            android:exported="true"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>
